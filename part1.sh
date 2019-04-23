@@ -1,4 +1,5 @@
 #!/bin/bash
+password=$1
 
 # update
 sudo apt update
