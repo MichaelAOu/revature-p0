@@ -160,3 +160,5 @@ case "$command" in
     exit 1
   ;;
 esac
+
+# ./test.sh 'create' pupperstwo Revature
